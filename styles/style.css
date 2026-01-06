@@ -132,7 +132,7 @@
   background-color: transparent;
   border: 2px solid #ffffff;
   color: #ffffff;
-  padding: 10px 30px;
+  padding: 10px 25px;
   font-size: 22px;
   cursor: pointer;
   text-transform: uppercase;
@@ -169,7 +169,7 @@
   font-size: 22px;
   padding: 20px;
   position: absolute;
-  top: 20px;
+  top: 15px;
   left: 15px;
   z-index: 1;
 }
@@ -227,7 +227,6 @@
   position: relative;
   margin-top: 133px;
   margin-left: 27px;
-  margin-bottom: 13px;
   display: flex;
   flex-direction: column;
 }
@@ -238,7 +237,7 @@
 .about__text {
   font-size: 20px;
   position: absolute;
-  bottom: 0;
+  bottom: 0px;
   display: flex;
   flex-direction: column;
   gap: 25px;
