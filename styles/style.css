@@ -15,12 +15,15 @@
   justify-self: start;
   font-size: 18px;
 }
+.header__link_active {
+  text-decoration: none;
+}
 .header__links-list {
   display: flex;
   gap: 33px;
   list-style: circle;
 }
-.link-active {
+.header__links-list-item_no-bullit {
   list-style: none;
 }
 .header__link {
